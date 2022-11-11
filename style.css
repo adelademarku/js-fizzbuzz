@@ -1,0 +1,19 @@
+
+body{background-color: rgb(16, 36, 122);}
+
+h1{text-align: center; margin: 10px;}
+
+.containerN{ width:80%;
+            margin:auto;
+            display: flex;
+            flex-wrap: wrap;
+            }
+
+.square{ width: 90px;
+height: 90px;           
+margin: 10px; 
+display: flex;
+justify-content: center;align-items: center;
+background-color: rgba(75, 144, 235, 0.404);}
+
+p{margin: 0;padding: 0;}
